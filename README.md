@@ -23,8 +23,8 @@ Start the application and put the amount of streaks you have and what your strea
 
 ## Problems
 
-It tracks the first name of the person so if you for example had 2 johns try changing their names to john1 and john2
-It can have trouble with emojis so if someone is not being selected try removing the emojis
+* **It tracks the first name of the person so if you for example had 2 johns try changing their names to john1 and john2**
+* **It can have trouble with emojis so if someone is not being selected try removing the emojis**
 
 ## Built With
 
