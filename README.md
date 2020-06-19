@@ -33,4 +33,4 @@ Start the application and put the amount of streaks you have and what your strea
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
