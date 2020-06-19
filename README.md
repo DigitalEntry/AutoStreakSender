@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 You need to get a [Vision API](https://cloud.google.com/vision/docs/setup)
 Once completed go to the Create Service Account Key page and make a JSON key type
 
-### Installing
+### Setup
 
 Once you have your key place it into the Auth.json file
 
