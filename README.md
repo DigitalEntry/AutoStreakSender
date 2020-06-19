@@ -17,7 +17,7 @@ Once you have your key place it into the Auth.json file
 
 ### Starting the Application
 
-Open snapchat and go to this screen ![alt text](https://i.imgur.com/hotZoDW.jpg)
+Open snapchat and go to this screen ![alt text](https://i.imgur.com/yoDjkj7.jpg)
 Start the application and put the amount of streaks you have and what your streaks start with
 
 ## Problems
