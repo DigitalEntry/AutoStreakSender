@@ -20,10 +20,6 @@ Once you have your key place it into the Auth.json file
 * [Andriod Debug Bridge](https://developer.android.com/studio/command-line/adb)
 * [Vision API](https://cloud.google.com/vision)
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **DigitalEntry** - [DigitalEntry](https://github.com/DigitalEntry)
